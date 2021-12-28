@@ -1,3 +1,5 @@
+/* ejecicio 1*/
+
 .container{
     display: flex;
     background-color: #F5F5F5;
@@ -7,6 +9,7 @@
     justify-content: flex-end;
     align-items: flex-end;
     flex-direction: column;
+    margin-bottom: 10px;
 }
 .box{
     width: 100px;
@@ -14,6 +17,9 @@
     color: white;
     text-align: center;
     font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .box-1{
     background-color: #ff6666;
@@ -24,5 +30,30 @@
 .box-3{ 
     background-color: #66ff66;
 }
+
+/*ejercicio 2*/
+.container2{
+    display: flex;
+    background-color: #F5F5F5;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    align-items: center;
+    margin-bottom: 10px;
+    flex-direction: row-reverse;
+}
+
+/*ejercicio 3*/
+.container3{
+    display: flex;
+    background-color: #F5F5F5;
+    width: 600px;
+    height: 100px;
+    border: 2px solid black;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
 
 
