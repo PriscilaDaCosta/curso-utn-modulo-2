@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-sm {
+  margin: 20px;
+}
+
+.col {
+  margin-left: 20px;
+}
+
+/*primera linea*/
+.plan1 {
+  padding: 15px;
+  text-align: center;
+  border-top: 3px solid #a81212;
+  font-size: 30px;
+}
+
+.plan2 {
+  padding: 15px;
+  text-align: center;
+  border-top: 3px solid #29298d;
+  font-size: 30px;
+}
+
+.plan3 {
+  padding: 15px;
+  text-align: center;
+  border-top: 3px solid #065c06;
+  font-size: 30px;
+}
+
+.plan4 {
+  padding: 15px;
+  text-align: center;
+  border-top: 3px solid black;
+  font-size: 30px;
+}
+
+.monto1 {
+  text-align: center;
+  padding: 15px;
+  background-color: #dd707b;
+  font-size: 30px;
+}
+
+.monto2 {
+  text-align: center;
+  padding: 15px;
+  background-color: #84a5ff;
+  font-size: 30px;
+}
+
+.monto3 {
+  text-align: center;
+  padding: 15px;
+  background-color: #73c287;
+  font-size: 30px;
+}
+
+.monto4 {
+  text-align: center;
+  padding: 15px;
+  background-color: #696667;
+  font-size: 30px;
+}
+
+.use {
+  border-bottom: 2px solid grey;
+  font-weight: bold;
+  font-size: x-small;
+  text-align: center;
+  padding: 8px;
+}
+
+.ser {
+  border-bottom: 1px solid #d1d1d1;
+  font-weight: bold;
+  font-size: x-small;
+  text-align: center;
+  padding: 8px;
+}
+
+.pro {
+  color: #dd707b;
+}
+
+.dev {
+  color: #84a5ff;
+}
+
+.free1 {
+  color: #73c287;
+}
+
+.free2 {
+  color: #696667;
+}
+
+.btn {
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.sub {
+  border-bottom: 4px solid #b9b9b9;
+  margin-bottom: 30px;
+}
+
+/*segunda linea*/
+.planes {
+  padding: 15px;
+  text-align: center;
+  border-top: 3px solid;
+  font-size: 30px;
+}
+
+.montos {
+  text-align: center;
+  padding: 15px;
+  background-color: #bdbdbd;
+  font-size: 30px;
+}
+
+.use {
+  border-bottom: 2px solid grey;
+  font-weight: bold;
+  font-size: x-small;
+  text-align: center;
+  padding: 8px;
+}
+
+.ser {
+  border-bottom: 1px solid #d1d1d1;
+  font-weight: bold;
+  font-size: x-small;
+  text-align: center;
+  padding: 8px;
+}
+
+.seg {
+  color: green;
+}
+
+.btn {
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.sub {
+  border-bottom: 4px solid #b9b9b9;
+  margin-bottom: 30px;
+}
